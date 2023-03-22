@@ -1,5 +1,7 @@
 {
   "main": {
-    "core": "https://raw.githubusercontent.com/kraoc/mods/main/app/core.json"
+    "remote": "https://raw.githubusercontent.com/kraoc/mods/main/app",
+    "core": "core.json",
+    "launcher": "launcher.json"
   }
 }

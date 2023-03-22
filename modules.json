@@ -1,0 +1,330 @@
+{
+  "main": {
+    "items": [
+      {
+        "name": "AppleSkin",
+        "source": "modrinth",
+        "id": "appleskin",
+        "remote": ""
+      },
+      {
+        "name": "Auditory",
+        "source": "modrinth",
+        "id": "auditory",
+        "remote": ""
+      },
+      {
+        "name": "Balm",
+        "source": "modrinth",
+        "id": "balm",
+        "remote": ""
+      },
+      {
+        "name": "Carpet-Fixes",
+        "source": "modrinth",
+        "id": "carpet-fixes",
+        "remote": ""
+      },
+      {
+        "name": "Carpet",
+        "source": "modrinth",
+        "id": "carpet",
+        "remote": ""
+      },
+      {
+        "name": "Chime",
+        "source": "modrinth",
+        "id": "chime",
+        "remote": ""
+      },
+      {
+        "name": "Chunky",
+        "source": "modrinth",
+        "id": "chunky",
+        "remote": ""
+      },
+      {
+        "name": "CIT Resewn",
+        "source": "modrinth",
+        "id": "cit-resewn",
+        "remote": ""
+      },
+      {
+        "name": "Cloth Config API",
+        "source": "modrinth",
+        "id": "cloth-config",
+        "remote": ""
+      },
+      {
+        "name": "Collective",
+        "source": "modrinth",
+        "id": "collective",
+        "remote": ""
+      },
+      {
+        "name": "Continuity",
+        "source": "modrinth",
+        "id": "continuity",
+        "url": "https://cdn.discordapp.com/attachments/872543494554648637/1072588299165769829/continuity-3.0.0-beta.21.19.3.jar"
+      },
+      {
+        "name": "Crafting Tweaks",
+        "source": "modrinth",
+        "id": "crafting-tweaks",
+        "remote": ""
+      },
+      {
+        "name": "CreativeCore",
+        "source": "modrinth",
+        "id": "creativecore",
+        "remote": ""
+      },
+      {
+        "name": "Dynamic Surroundings: Remastered",
+        "source": "modrinth",
+        "id": "dynamicsurroundings_remasteredfabric",
+        "url": "https://github.com/kraoc/mods/raw/main/app/mods/DynamicSurroundings-RemasteredFabric-1.19.3-0.1.1.jar"
+      },
+      {
+        "name": "Enhanced Block Entities",
+        "source": "modrinth",
+        "id": "ebe",
+        "remote": ""
+      },
+      {
+        "name": "Entity View Distance",
+        "source": "modrinth",
+        "id": "entity-view-distance",
+        "remote": ""
+      },
+      {
+        "name": "EntityCulling",
+        "source": "modrinth",
+        "id": "entityculling",
+        "remote": ""
+      },
+      {
+        "name": "Exordium",
+        "source": "modrinth",
+        "id": "exordium",
+        "remote": ""
+      },
+      {
+        "name": "ExtraSounds",
+        "source": "modrinth",
+        "id": "extrasounds",
+        "url": "https://github.com/kraoc/mods/raw/main/app/mods/extra-sounds-2.3.1%2B1.19.3%7Elonefelidae16-build.4.jar"
+      },
+      {
+        "name": "Fabric API",
+        "source": "modrinth",
+        "id": "fabric-api",
+        "remote": ""
+      },
+      {
+        "name": "Fabric Language Kotlin",
+        "source": "modrinth",
+        "id": "fabric-language-kotlin",
+        "remote": ""
+      },
+      {
+        "name": "FerriteCore",
+        "source": "modrinth",
+        "id": "ferrite-core",
+        "remote": ""
+      },
+      {
+        "name": "ImmediatelyFast",
+        "source": "modrinth",
+        "id": "immediatelyfast",
+        "remote": ""
+      },
+      {
+        "name": "Indium",
+        "source": "modrinth",
+        "id": "indium",
+        "remote": ""
+      },
+      {
+        "name": "Iris Shaders",
+        "source": "modrinth",
+        "id": "iris",
+        "remote": ""
+      },
+      {
+        "name": "JourneyMap",
+        "source": "modrinth",
+        "id": "journeymap",
+        "remote": ""
+      },
+      {
+        "name": "Krypton",
+        "source": "modrinth",
+        "id": "krypton",
+        "remote": ""
+      },
+      {
+        "name": "LazyDFU",
+        "source": "modrinth",
+        "id": "lazydfu",
+        "remote": ""
+      },
+      {
+        "name": "Lithium",
+        "source": "modrinth",
+        "id": "lithium",
+        "remote": ""
+      },
+      {
+        "name": "Log Cleaner",
+        "source": "modrinth",
+        "id": "log-cleaner",
+        "remote": ""
+      },
+      {
+        "name": "Memory Leak Fix",
+        "source": "modrinth",
+        "id": "memoryleakfix",
+        "remote": ""
+      },
+      {
+        "name": "Mod Menu",
+        "source": "modrinth",
+        "id": "modmenu",
+        "remote": ""
+      },
+      {
+        "name": "More Culling",
+        "source": "modrinth",
+        "id": "moreculling",
+        "remote": ""
+      },
+      {
+        "name": "More Culling Extra",
+        "source": "modrinth",
+        "id": "morecullingextra",
+        "remote": ""
+      },
+      {
+        "name": "Presence Footsteps",
+        "source": "modrinth",
+        "id": "presence-footsteps",
+        "remote": ""
+      },
+      {
+        "name": "QuickShulker",
+        "source": "modrinth",
+        "id": "quickshulker",
+        "remote": ""
+      },
+      {
+        "name": "Reese's Sodium Options",
+        "source": "modrinth",
+        "id": "reeses-sodium-options",
+        "remote": ""
+      },
+      {
+        "name": "ServerCore",
+        "source": "modrinth",
+        "id": "versions",
+        "remote": ""
+      },
+      {
+        "name": "Sodium",
+        "source": "modrinth",
+        "id": "sodium",
+        "remote": ""
+      },
+      {
+        "name": "Sodium Extra",
+        "source": "modrinth",
+        "id": "sodium-extra",
+        "remote": ""
+      },
+      {
+        "name": "spark",
+        "source": "modrinth",
+        "id": "spark",
+        "remote": ""
+      },
+      {
+        "name": "Starlight (Fabric)",
+        "source": "modrinth",
+        "id": "starlight",
+        "remote": ""
+      },
+      {
+        "name": "Status Effect Bars",
+        "source": "modrinth",
+        "id": "status-effect-bars",
+        "remote": ""
+      },
+      {
+        "name": "Very Many Players (Fabric)",
+        "source": "modrinth",
+        "id": "vmp-fabric",
+        "remote": ""
+      },
+      {
+        "name": "Waystones",
+        "source": "modrinth",
+        "id": "waystones",
+        "remote": ""
+      },
+      {
+        "name": "YetAnotherConfigLib",
+        "source": "modrinth",
+        "id": "yacl",
+        "remote": ""
+      },
+      {
+        "name": "Explorer's Compass",
+        "source": "curseforge",
+        "id": "explorers-compass",
+        "remote": ""
+      },
+      {
+        "name": "Nature's Compass",
+        "source": "curseforge",
+        "id": "natures-compass",
+        "remote": ""
+      },
+      {
+        "name": "MiniHUD",
+        "source": "curseforge",
+        "id": "minihud",
+        "remote": ""
+      },
+      {
+        "name": "WorldEdit",
+        "source": "curseforge",
+        "id": "worldedit",
+        "remote": ""
+      },
+      {
+        "name": "WorldEdit CUI (Fabric)",
+        "source": "curseforge",
+        "id": "worldeditcui-fabric",
+        "remote": ""
+      },
+      {
+        "name": "MaLiLib",
+        "source": "curseforge",
+        "id": "malilib",
+        "remote": ""
+      },
+      {
+        "name": "Sound Categories",
+        "source": "modrinth",
+        "id": "sound-categories",
+        "url": "https://github.com/kraoc/mods/raw/main/app/mods/soundcategories-1.2.4%2B1.19.3.jar"
+      },
+      {
+        "name": "Sound Physics",
+        "source": "modrinth",
+        "id": "sound-physics-remastered",
+        "url": "https://github.com/kraoc/mods/raw/main/app/mods/soundphysics-fabric-1.19.3-1.1.0.jar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "main": {
+    "items": [
+      {
+        "name": "Faithful 64x",
+        "source": "curseforge",
+        "id": "faithful-64x",
+        "remote": "https://mediafilez.forgecdn.net/files/4174/223/Faithful+64x.zip",
+        "filename": "Faithful64x.zip"
+      },
+      {
+        "name": "3D Glass Doors",
+        "source": "faithfulpack",
+        "id": "3DGlassDoors",
+        "remote": "https://github.com/kraoc/mods/raw/main/app/resources/3D%20Glass%20Doors.zip",
+        "filename": "3DGlassDoors.zip"
+      },
+      {
+        "name": "CTM 64x",
+        "source": "modrinth",
+        "id": "ctm-faithful",
+        "remote": "https://github.com/kraoc/mods/raw/main/app/resources/CTM%20Faithful%201.19.3.zip",
+        "filename": "CTM64x.zip"
+      },
+      {
+        "name": "Ore Borders 64x",
+        "source": "github",
+        "id": "ob",
+        "remote": "https://github.com/Hedreon/Faithful-Addons/releases/download/1.19.3-ob/OreBorders64x_1.19.3.zip",
+        "filename": "OreBorders64x.zip"
+      },
+      {
+        "name": "Glowing Ore",
+        "source": "github",
+        "id": "glowing-ore",
+        "remote": "https://github.com/kraoc/mods/raw/main/app/resources/Glowing%20Ores.zip",
+        "filename": "GlowingOre.zip"
+      },
+      {
+        "name": "Cauldron & Composter Levels",
+        "source": "curseforge",
+        "id": "cc-levels",
+        "remote": "https://github.com/kraoc/mods/raw/main/app/resources/CCLevels%2B%2B%5B1.18.x%5D.zip",
+        "filename": "CauldronComposterLevels.zip"
+      },
+      {
+        "name": "Redstone Utilities",
+        "source": "curseforge",
+        "id": "redstone-utilities",
+        "remote": "https://github.com/kraoc/mods/raw/main/app/resources/Redstone%2BUtilities-v2%2B%5B1.18.x%5D.zip",
+        "filename": "RedstoneUtilities.zip"
+      },
+      {
+        "name": "Xray Ultimate",
+        "source": "curseforge",
+        "id": "xray-ultimate-1-11-compatible",
+        "remote": "https://github.com/kraoc/mods/raw/main/app/resources/Xray_Ultimate_1.19_v4.2.3.1.zip",
+        "filename": "XrayUltimate.zip"
+      }
+    ]
+  }
+}

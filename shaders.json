@@ -1,0 +1,13 @@
+{
+  "main": {
+    "items": [
+      {
+        "name": "Complementary Reimagined",
+        "source": "modrinth",
+        "id": "complementary-reimagined",
+        "remote": "https://cdn.modrinth.com/data/HVnmMxH1/versions/jCIQGZp3/ComplementaryReimagined_r2.0.3.zip",
+        "filename": "ComplementaryReimagined.zip"
+      }
+    ]
+  }
+}

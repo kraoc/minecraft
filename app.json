@@ -1,5 +1,5 @@
 {
   "main": {
-    "code": "https://raw.githubusercontent.com/kraoc/mods/main/app/core.json"
+    "core": "https://raw.githubusercontent.com/kraoc/mods/main/app/core.json"
   }
 }

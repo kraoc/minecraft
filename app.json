@@ -2,6 +2,9 @@
   "main": {
     "remote": "https://raw.githubusercontent.com/kraoc/mods/main/app",
     "core": "core.json",
-    "launcher": "launcher.json"
+    "launcher": "launcher.json",
+    "modules": "modules.json",
+    "resources": "resources.json",
+    "shaders": "shaders.json"
   }
 }
